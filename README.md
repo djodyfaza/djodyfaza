@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://pbs.twimg.com/media/C-E-okEUwAA9ILA.jpg" width="150px">
+
 <!--
 **djodyfaza/djodyfaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
